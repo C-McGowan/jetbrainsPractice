@@ -1,2 +1,3 @@
 Contains a program that acts as a coffee machine with 3 different types of coffee. 
 Loops through inputs until exit is typed.
+I plan to add some unit testing, but the main class is complete.
