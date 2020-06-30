@@ -1,0 +1,2 @@
+This program currently takes a directory and a list of names to find in the directory, and creates a list of the numbers associated with each person.
+Also returns the time to complete.
